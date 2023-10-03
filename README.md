@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak
 - 👀 I’m interested in .coding and competative programs.
-- 🌱 I’m currently learning .python.
+- 🌱 I’m currently learning .python,c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

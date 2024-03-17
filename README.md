@@ -1,5 +1,5 @@
 
-[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
+[![MasterHead](https://i.pinimg.com/originals/80/05/5d/80055dddf8bbda53d5aa1f2d88018554.gif)
 <h1 align="center">Hi 👋, I'm DESH DEEPAK</h1>
 <h3 align="center">A passionate frontend developer from India</h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">

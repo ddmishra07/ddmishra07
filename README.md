@@ -1,7 +1,6 @@
-[![MasterHead](https://www.dreamstime.com/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-image159250288)
 <h1 align="center">Hi 👋, I'm DESH DEEPAK </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
+<img align ="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddmishra07&label=Profile%20views&color=0e75b6&style=flat" alt="ddmishra07" /> </p>

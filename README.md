@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on: **IP House**
 
-🌱 I’m currently learning: Learning Advanced Machine Learning, Generative AI, and Cloud Technologie
+🌱 I’m currently learning: Advanced Machine Learning, Generative AI, and Cloud Technologie
 
 💬 Ask me about: Collaboration, Tech Support
 
